@@ -1,0 +1,12 @@
+.gif-container {
+    /* Optional: If you want to set a maximum width for the container */
+    max-width: 80%;
+  
+    /* Optional: If you want to set a maximum height for the container */
+    max-height: 80%;
+  
+    /* Center the container horizontally and vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
